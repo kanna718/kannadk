@@ -1,0 +1,220 @@
+.navbar-brand:hover{
+   color: #e31b6d;
+}
+.nav-link:hover{
+   color:blue;
+   transform: scale(1.1);
+}
+.nav-link{
+   margin-right: 20px;
+   font-size: 20px;
+   font-family: 'Kanit', sans-serif;
+}
+.d-img{
+   width: 45px;
+}
+/* intro */
+.contact-btn{
+   text-decoration: none;
+   color: black;
+}
+.contact-btn:hover{
+   color: white;
+}
+.html{
+   display: inline-block;
+   height: 40px;
+   width: 80px;
+   padding: 3px;
+   text-align: center;
+   background-color: #F3E8FF;
+   border-radius: 5%;
+   font-family: 'Kanit', sans-serif;
+   margin-right: 25px;
+}
+.html:hover{
+   box-shadow: 5px 6px 6px 2px black;
+    transform: scale(1.1);
+}
+.script{
+   display: inline-block;
+   height: 40px;
+   width: 120px;
+   padding: 3px;
+   text-align: center;
+   background-color: #F3E8FF;
+   border-radius: 5%;
+   font-family: 'Kanit', sans-serif;
+}
+.script:hover{
+   box-shadow: 5px 6px 6px 2px black;
+    transform: scale(1.1);
+}
+.css{
+   display: inline-block;
+   height: 40px;
+   width: 70px;
+   padding: 3px;
+   text-align: center;
+   background-color: #F3E8FF;
+   border-radius: 5%;
+   font-family: 'Kanit', sans-serif;
+   margin-right: 25px; 
+}
+.css:hover{
+   box-shadow: 5px 6px 6px 2px black;
+    transform: scale(1.1);
+}
+.about-para{
+   font-family: 'Kanit', sans-serif;
+   text-align:justify;
+   width:80%;
+   margin-left: 7%;
+   margin-top: 3%;
+   margin-bottom: 5%;
+   font-size: 1.2rem;
+   
+}
+.myself{
+   text-align: center;
+   padding-top: 5%;
+}
+.name{
+   margin-top: 3%;
+   font-family: 'Kanit', sans-serif;
+}
+.skill{
+   text-align: center;
+   padding-top: 15%;
+   
+}
+
+/* about-part */
+.about-part{
+   margin-top: 10%;
+   text-align: center;
+   font-family: 'Kanit', sans-serif;
+
+}
+.about-img{
+   width: 35%;
+   margin-bottom: 10%;
+   margin-top: 15%;
+}
+@media (max-width:1020px){
+   .about-paragraph{
+      padding: 0 15% 0;
+      font-size: 1.4rem;
+   }
+   .about-para{
+      font-size: 1.3rem;
+}
+.edu-card{
+   margin-top: 40px;
+}
+.contact{
+   border-radius: 20px;
+   }
+}
+.about-paragraph{
+   font-size: 1.3rem;
+}
+.about-col:hover{
+   background-color:#eee;
+}
+
+.about-col{
+padding: 3%;
+border-radius: 25px;
+}
+
+/* carousel-img */
+.slide{
+   padding:5% ;
+   
+}
+.carousel-web{
+   text-align: center;
+   margin-top: 10%;
+}
+
+/* achievements */
+
+#card-ath{
+   background-image: url(footbal.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 25px;
+}
+#card-ath:hover{
+   box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
+.anna{
+   /* padding-right: 3%;
+   padding-top: 25%;
+   padding-bottom: 25%;
+   padding-left: 3%; */
+   font-size: 1.2rem;
+   padding-top: 10%;
+   padding-bottom: 12%;
+}
+.anna2{
+   font-size: 1.2rem;
+   padding-bottom: 5%;
+}
+.zonal{
+   color: white;
+   font-family: 'Kanit', sans-serif;
+}
+.level{
+   margin-bottom: 5%;
+   margin-top: 5%;
+}
+.edu-para{
+   padding-top: 7%;
+   padding-bottom: 10%;
+}
+.edu-col{
+   text-align: center;
+}
+#achievements{
+   margin: 10%;
+}
+#card-edu{
+   background-image: url(book.jpg);
+   border-radius: 25px;
+}
+#card-edu:hover{
+   box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
+
+/* contact */
+.contact{
+   background-color: #ABC4AA;
+   padding: 45px;
+   border-radius: 50px;
+   margin-bottom: 100px;
+}
+.con{
+   margin-bottom: 70px;
+}
+.su-btn{
+   margin-top:10px;
+   display: block;
+}
+.fa-icon{
+   margin-right: 20px;
+   margin-top: 30px;
+   color:#263A29;
+   
+}
+.fa-icon:hover{
+   color:#eee;
+    transform: scale(1.1);
+}
+.bold{
+   font-family: 'Dancing Script', cursive;
+   font-weight: bold;
+}
